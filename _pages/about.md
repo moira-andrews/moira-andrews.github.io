@@ -20,7 +20,7 @@ Research Interests
 Contact Info
 ======
 
-A PDF of my CV can be found here. You can contact me at:
+A PDF of my CV can be found <a href="https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf">here</a>. You can contact me at:
 
 andrew87@purdue.edu
 
