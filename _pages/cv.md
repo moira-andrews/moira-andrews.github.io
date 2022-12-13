@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: [/cv/](https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf)
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version can be found <a href="https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf">here</a>.
+A full PDF CV can be found <a href="https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf">here</a>.
