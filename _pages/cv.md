@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A full PDF version can be found <a href="https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf" style="text-decoration: none">here</a>.
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
