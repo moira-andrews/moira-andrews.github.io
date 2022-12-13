@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Moira Andrews"
-  avatar           : "profile.png"
+  avatar           : "IMG_0296.jpeg"
   bio              : "Research Assistant at Purdue University"
   location         : 
   employer         :
