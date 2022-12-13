@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /moira-andrews/moira-andrews.github.io/files/CV_Moira_Andrews.pdf/
+permalink: /files/CV_Moira_Andrews.pdf/
 author_profile: true
 redirect_from:
   - /resume
