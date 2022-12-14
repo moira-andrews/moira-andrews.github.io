@@ -33,9 +33,6 @@ You can contact me at:
 andrew87@purdue.edu
 
 Purdue Physics Building
-
-525 Northwestern Ave
-
-West Lafayette, IN 47907
-
-United States of America
+\n 525 Northwestern Ave
+\nWest Lafayette, IN 47907
+\n United States of America
