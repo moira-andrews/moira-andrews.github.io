@@ -29,10 +29,13 @@ Contact Info
 A PDF of my CV can be found <a href="https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf">here</a>. 
 
 You can contact me at:
-
+<br> <br>
 andrew87@purdue.edu
-
+<br> <br>
 Purdue Physics Building
-\n 525 Northwestern Ave
-\nWest Lafayette, IN 47907
-\n United States of America
+<br>
+525 Northwestern Ave
+<br>
+West Lafayette, IN 47907
+<br>
+United States of America
