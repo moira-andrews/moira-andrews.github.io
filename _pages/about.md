@@ -29,7 +29,7 @@ Contact Info
 A PDF of my CV can be found <a href="https://moira-andrews.github.io/files/CV_Moira_Andrews.pdf">here</a>. 
 
 You can contact me at:
-<br> <br>
+<br>
 andrew87@purdue.edu
 <br> <br>
 Purdue Physics Building
