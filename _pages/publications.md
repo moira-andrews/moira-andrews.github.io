@@ -8,7 +8,8 @@ author_profile: true
 <b>In Prep:</b>
 <ol>
   <li>Milisavljevic, et al. (incl. <b>Andrews</b>). 2023. The JWST Survey of Supernova Remnant Cassiopeia: New Insights into its Progenitor System, Explosion Dynamics, and Dusk Formation [in prep to be submitted Jan 2023]</li>
-  <li>Rodriguez, Merchán, et al. (incl. <b>Andrews</b>). 2022. Alignment of the central galaxies with the environment in simulations, MNRAS [in prep to be submitted Dec 2022]</li>
+  <li><b>Andrews</b>, Artale, et al. 2023. High-redshift protoclusters and their connection with Lyman-α emitters [in prep to be submitted Jan 2023]
+</li>
 </ol>
 
 <b>Non-Refereed:</b>
