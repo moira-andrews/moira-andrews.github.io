@@ -14,6 +14,7 @@ author_profile: true
 
 <b>Non-Refereed:</b>
 <ol>
+  <li>Rodriguez, Merchán, Artale, <b>Andrews</b>. 2022. Anisotropic correlation functions as tracers of central galaxy alignments in simulations, MNRAS</li>
   <li>Nolte, <b>Andrews</b> 2021. <a href="https://galileo-unbound.blog/2021/05/16/locking-clocks-in-strong-gravity/">Locking Clocks in Strong Gravity</a>, Galileo Unbound</li>
   <li>Weil, Milisavljevic, Rupert, <b>Andrews</b>, et al. 2021. REFITT classification of SN 2021nxq (ZTF21abcpsjy), Transient Name Server AstroNote, 182</li>
   <li>Weil, Milisavljevic, <b>Andrews</b>, et al. 2021. REFITT classifications of optical transients using SOAR, Transient Name Server AstroNote, 30</li>
