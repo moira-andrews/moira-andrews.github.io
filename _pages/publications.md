@@ -12,7 +12,7 @@ Emitters as tracers [in prep to be submitted April 2024]
 </li>
 </ol>
 
-<b>Non-Refereed:</b>
+<b>Refereed:</b>
 <ol>
   <li>Milisavljevic, et al. (incl. <b>Andrews</b>). 2023. A JWST Survey of the Supernova Remnant Cassiopeia A, ApJ</li>
 </ol>
