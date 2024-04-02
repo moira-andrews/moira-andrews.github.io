@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Astronomer at Purdue University
+Astronomer at UC Santa Barbara
 ======
 
-I am a current Research Assistant at Purdue University in the Department of Physics and Astronomy. I recieved my B.S. in physics from Purdue University in May 2022. My research interests are studying large scale structures and galaxies with experience in both observation and computation. I am currently working with Professor Dan Milisavljevic at Purdue to process spectra and images taken with JWST MIRI and NIRCam. I am also working with Professor Kyoung-Soo Lee and Maria Celeste Artale to use IllustrisTNG to model evolution of Lyman-alpha emitters in protoclusters to compare to the upcoming ODIN (One-hundred-square-degree DECam Imaging in Narrowbands) Survey.
+I am a current graduate student at UC Santa Barbara in the Department of Physics. I recieved my B.S. in physics from Purdue University in May 2022. My primary research interest is in Time Domain Astrophysics and studying supernovae and their progenitor systems. My other interests include studying large scale structures and galaxies with experience in both observation and computation. I am currently working with Professor Andy Howell at the Las Cumbres Observatory.
 
 Research Interests
 ======
 
-  * Protoclusters and Cluster Evolution
+  * Supernovae
   * Supernova Remnant Morphology
+  * Protoclusters and Cluster Evolution
   * Galaxy Evolution and Morphology
   * Large Scale Structure Dynamics
   * Computational Astrophysics
@@ -30,12 +31,10 @@ A PDF of my CV can be found <a href="https://moira-andrews.github.io/files/CV_Mo
 
 You can contact me at:
 <br>
-andrew87@purdue.edu
+moira_andrews@ucsb.edu
 <br> <br>
-Purdue Physics Building
+Broida Hall
 <br>
-525 Northwestern Ave
-<br>
-West Lafayette, IN 47907
+Santa Barbara, CA 93106
 <br>
 United States of America
