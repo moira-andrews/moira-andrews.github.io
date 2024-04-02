@@ -7,9 +7,14 @@ author_profile: true
 
 <b>In Prep:</b>
 <ol>
-  <li><b>Andrews</b>, Artale, et al. 2023. High-redshift protoclusters and their connection with Lyman-α emitters [in prep to be submitted Feb 2023]
+  <li><b>Andrews</b>, Artale, et al. 2023. Galaxy population in protoclusters and the role of Lyman-α
+Emitters as tracers [in prep to be submitted April 2024]
 </li>
-  <li>Milisavljevic, et al. (incl. <b>Andrews</b>). 2023. The JWST Survey of Supernova Remnant Cassiopeia: New Insights into its Progenitor System, Explosion Dynamics, and Dusk Formation [in prep to be submitted Feb 2023]</li>
+</ol>
+
+<b>Non-Refereed:</b>
+<ol>
+  <li>Milisavljevic, et al. (incl. <b>Andrews</b>). 2023. A JWST Survey of the Supernova Remnant Cassiopeia A, ApJ</li>
 </ol>
 
 <b>Non-Refereed:</b>
