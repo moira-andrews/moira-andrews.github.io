@@ -7,11 +7,11 @@ author_profile: true
 
 <b>ODIN Collaboration</b>
 <br>
-Purdue University, 2022
+Purdue University, 2022-2023
 <br>
 Advisors: Professor Kyoung-Soo Lee, Maria Celeste Artale
 <ol>
-A primary goal of the ODIN (One-hundred-square-degree DECam Imaging in Narrowbands) Collaboration is to identify hundreds of protoclusters at z = 2.4, 3.1, and 4.5. My contribution to this project was to model protoclusters in IllustrisTNG to investigate how protoclusters and the galaxies within them evolve. I used Lyman Alpha Emitters (LAEs) to trace the specific star formation rate, stellar mass, and other parameters, and compare how environmental density affects the evolution of cluster galaxies. LAEs have been found in overdence regions and can be used both observationally and in simulation at high redshift to probe clusters as they virialize and evolve. As a member of the ODIN collaboration, I participated in optical observing runs with DECam. Results of my project will be presented at the 241st AAS January 2023 Meeting in Seattle and an upcoming paper in January 2023.
+A primary goal of the ODIN (One-hundred-square-degree DECam Imaging in Narrowbands) Collaboration is to identify hundreds of protoclusters at z = 2.4, 3.1, and 4.5. My contribution to this project was to model protoclusters in IllustrisTNG to investigate how protoclusters and the galaxies within them evolve. I used Lyman Alpha Emitters (LAEs) to trace the specific star formation rate, stellar mass, and other parameters, and compare how environmental density affects the evolution of cluster galaxies. LAEs have been found in overdence regions and can be used both observationally and in simulation at high redshift to probe clusters as they virialize and evolve. As a member of the ODIN collaboration, I participated in optical observing runs with DECam. Results of my project were be presented at the 241st AAS January 2023 Meeting in Seattle and an upcoming paper in April 2024.
 </ol>
 
 <b>Time Domain Astrophysics</b>
