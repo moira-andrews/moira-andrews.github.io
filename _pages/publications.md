@@ -7,7 +7,7 @@ author_profile: true
 
 <b>In Prep:</b>
 <ol>
-  <li><b>Andrews</b>, Artale, et al. 2023. Galaxy populations in protoclusters at cosmic noon [in prep to be submitted September 2024]
+  <li><b>Andrews</b>, Artale, et al. 2024. Galaxy populations in protoclusters at cosmic noon [in prep to be submitted September 2024]
 </li>
 </ol>
 
