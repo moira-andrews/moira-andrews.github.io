@@ -13,6 +13,7 @@ author_profile: true
 
 <b>Refereed:</b>
 <ol>
+  <li>Newsome, et al. (incl. <b>Andrews</b>). 2024. Mapping the Inner 0.1 pc of a Supermassive Black Hole Environment with the Tidal Disruption Event and Extreme Coronal Line Emitter AT 2022upj, ApJ</li>
   <li>Milisavljevic, et al. (incl. <b>Andrews</b>). 2024. A JWST Survey of the Supernova Remnant Cassiopeia A, ApJ</li>
   <li>Lee, et al. (incl. <b>Andrews</b>). 2024. The One-hundred-deg2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals, ApJ</li>
   <li>Rodriguez, Merchán, Artale, <b>Andrews</b>. 2023. Anisotropic correlation functions as tracers of central galaxy alignments in simulations, MNRAS</li>
