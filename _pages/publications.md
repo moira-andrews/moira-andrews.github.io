@@ -7,17 +7,17 @@ author_profile: true
 
 <b>In Prep:</b>
 <ol>
-  <li><b>Andrews</b>, Artale, et al. 2024. Galaxy populations in protoclusters at cosmic noon [in prep to be submitted September 2024]
-</li>
+  <li><b>Andrews</b>, M., Artale, M. C., Kumar, A., et al. 2024, arXiv e-prints, arXiv:2410.08412, doi: 10.48550/arXiv.2410.08412
 </ol>
 
 <b>Refereed:</b>
 <ol>
-  <li>Newsome, et al. (incl. <b>Andrews</b>). 2024. Mapping the Inner 0.1 pc of a Supermassive Black Hole Environment with the Tidal Disruption Event and Extreme Coronal Line Emitter AT 2022upj, ApJ</li>
-  <li>Milisavljevic, et al. (incl. <b>Andrews</b>). 2024. A JWST Survey of the Supernova Remnant Cassiopeia A, ApJ</li>
-  <li>Lee, et al. (incl. <b>Andrews</b>). 2024. The One-hundred-deg2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals, ApJ</li>
-  <li>Rodriguez, Merchán, Artale, <b>Andrews</b>. 2023. Anisotropic correlation functions as tracers of central galaxy alignments in simulations, MNRAS</li>
+  <li>Newsome, M., Arcavi, I., Howell, D. A., et al. (incl. <b>Andrews</b>). 2024, arXiv e-prints, arXiv:2406.11972, doi: 10.48550/arXiv.2406.11972
+  <li> Milisavljevic, D., Temim, T., De Looze, I., et al. (incl. <b>Andrews</b>). 2024, ApJL, 965, L27, doi: 10.3847/2041-8213/ad324b
+  <li>Lee, K.-S., Gawiser, E., Park, C., et al. (incl. <b>Andrews</b>). 2024, ApJ, 962, 36, doi: 10.3847/1538-4357/ad165e</li>
+  <li>Rodriguez, F., Merchán, M., Artale, M. C., &  <b>Andrews</b>, M. 2023, MNRAS, 521, 5483, doi: 10.1093/mnras/stad924</li>
 </ol>
+
 
 <b>Non-Refereed:</b>
 <ol>
